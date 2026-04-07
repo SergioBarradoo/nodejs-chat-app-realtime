@@ -20,8 +20,6 @@ I am a passionate Full-Stack Developer specializing in backend systems using Spr
 
 ---
 
-### 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=SergioBarradoo&show_icons=true&theme=tokyonight)
 
 ---
 
